@@ -14,7 +14,14 @@ categories: 前端
 2.  CSS 防污染
 3. 浏览器原生支持的组件化实现
 
-Web components 原生对css 的隔离性，也是它的缺点之一。web components开发的组件，在使用时不可避免地需要改变它的内部样式，我认为有两种方法可以有效地达到效果：
+Web components 原生对css 的隔离性，从另外一个角度来说也是它的缺点之一。web components开发的组件，在使用时不可避免地需要改变它的内部样式，我认为有两种方法可以有效地达到效果：
+
+[使用教程--张鑫旭]: https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/
+
+
+
+1. css变量
+2. ::part伪元素
 
 
 
